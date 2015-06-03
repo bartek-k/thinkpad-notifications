@@ -1,1 +1,1 @@
-# thinkpad-notifications
+# thinkpad stuff (linux / freebsd)
